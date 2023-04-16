@@ -1,4 +1,4 @@
-### Hi there 🌑 ![darth]
+# Hi there 🌚 <img src="/assets/darth.jpg" alt="Image description" width="25" height="25">
 
 <!--
 **prolazydev/prolazydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
