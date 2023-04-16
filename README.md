@@ -1,4 +1,4 @@
-# Hi there 🌚 <img src="/assets/darth.png" alt="Image description" width="25" height="25"> ![darthy](assets/darth.webp)
+# Hi there 🌚 <img src="/assets/darth.png" alt="Image description" width="20" height="20"> ![darthy](assets/darth.webp)
 <!--
 **prolazydev/prolazydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
